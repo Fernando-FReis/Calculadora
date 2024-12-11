@@ -3,8 +3,8 @@
 
 #Execute o script "calculadora.sh" utilizando os comandos a seguir no Shell Linux:
 
-# >>chmod 744 calculadora.sh >> Garante que o usuário possua as permissoes necessárias para a execuçao do arquivo
-# >>./calculadora.sh >> informe o local do arquivo e o nome do mesmo para iniciar a sua execuçao 
+#chmod 744 calculadora.sh >> Garante que o usuário possua as permissoes necessárias para a execuçao do arquivo
+#./calculadora.sh >> informe o local do arquivo e o nome do mesmo para iniciar a sua execuçao 
 
 #O script irá executar o arquivo calculadora.py, desenvolvido em python.
 
